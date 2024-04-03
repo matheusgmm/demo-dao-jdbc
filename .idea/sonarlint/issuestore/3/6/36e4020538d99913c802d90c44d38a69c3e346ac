@@ -1,11 +1,13 @@
 
+
+java:S1192T"MDefine a constant instead of duplicating this literal "DepartmentId" 3 times.(ÇÖóÑ8òÑ­ê1J$b58881e6-983f-4689-94e2-76a77a038a0b
 £
-java:S14887"[Immediately return this expression instead of assigning it to the temporary variable "obj".(–î©Áøÿÿÿÿ8©Ôëœê1J$ee0cffe9-03c5-4c8f-9569-de534c319b2b
+java:S1488;"[Immediately return this expression instead of assigning it to the temporary variable "obj".(–î©Áøÿÿÿÿ8óÑ­ê1J$286c30b2-c514-4f3f-a768-06d6025eb65e
 Ä
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ŸÒõ§8­Ôëœê1J$b5673cf2-8222-426d-983b-cb76befd5fdc
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ŸÒõ§8“Ò­ê1J$996c873c-bfff-42ef-8064-22d34b0fad12
 Ä
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÃÜ¬š8®Ôëœê1J$7ec863e9-e198-48cf-b087-d28bcfb54dd7
+java:S1186 "€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÃÜ¬š8“Ò­ê1J$1488be40-ffe6-4b6b-886e-4b331d8b491b
 Ä
-java:S1186""€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ïàš8®Ôëœê1J$b46329d2-385f-489d-93aa-7d4da06d6cf4
+java:S1186%"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ïàš8“Ò­ê1J$82002751-2a7c-465b-9c22-150de49d92ba
 n
-java:S1168W"+Return an empty collection instead of null.(¥¹ï8³Ôëœê1J$7dd95286-45e3-4f84-b833-1aad5a76d15f
+java:S1168["+Return an empty collection instead of null.(¥¹ï8˜Ò­ê1J$7149db31-b13b-470f-81b6-6ccc86c6df0c
