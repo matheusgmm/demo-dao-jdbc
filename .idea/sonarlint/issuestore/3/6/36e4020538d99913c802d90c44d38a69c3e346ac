@@ -1,13 +1,17 @@
 
+°
+java:S11920"mDefine a constant instead of duplicating this literal "SELECT seller.*, department.Name as DepName " 3 times.(À¨ïı8ñÒÕê1J$1660c4b6-a6b6-4d98-a567-f8f56ecd72c9
+Ÿ
+java:S11922"WDefine a constant instead of duplicating this literal "INNER JOIN department " 3 times.(ËİçÈşÿÿÿÿ8ñÒÕê1J$d2e67a84-b9bf-4574-a0cf-198107ecb465
 
-java:S1192T"MDefine a constant instead of duplicating this literal "DepartmentId" 3 times.(ÇÖóÑ8òÑ­ê1J$b58881e6-983f-4689-94e2-76a77a038a0b
+java:S11921"MDefine a constant instead of duplicating this literal "FROM seller " 3 times.(Â„É·8ñÒÕê1J$a014131e-0988-4030-be44-c32145e4dfe4
+
+java:S1192T"MDefine a constant instead of duplicating this literal "DepartmentId" 5 times.(ÇÖóÑ8ñÒÕê1J$447e3199-7e70-4620-96a0-dd7e131f0dec
 £
-java:S1488;"[Immediately return this expression instead of assigning it to the temporary variable "obj".(–î©Áøÿÿÿÿ8óÑ­ê1J$286c30b2-c514-4f3f-a768-06d6025eb65e
+java:S1488;"[Immediately return this expression instead of assigning it to the temporary variable "obj".(–î©Áøÿÿÿÿ8óÒÕê1J$bef22ef4-4aff-46ef-915d-4c4be5ba86a6
 Ä
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ŸÒõ§8“Ò­ê1J$996c873c-bfff-42ef-8064-22d34b0fad12
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ŸÒõ§8ÀÓÕê1J$c1fda467-115d-426a-b0ed-dc2e01c0d8ea
 Ä
-java:S1186 "€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÃÜ¬š8“Ò­ê1J$1488be40-ffe6-4b6b-886e-4b331d8b491b
+java:S1186 "€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÃÜ¬š8ÀÓÕê1J$8015fb85-437f-4463-940d-ff9a54af2a53
 Ä
-java:S1186%"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ïàš8“Ò­ê1J$82002751-2a7c-465b-9c22-150de49d92ba
-n
-java:S1168["+Return an empty collection instead of null.(¥¹ï8˜Ò­ê1J$7149db31-b13b-470f-81b6-6ccc86c6df0c
+java:S1186%"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ïàš8ÀÓÕê1J$a14727ea-7d85-43ee-9145-a7af57580edc
