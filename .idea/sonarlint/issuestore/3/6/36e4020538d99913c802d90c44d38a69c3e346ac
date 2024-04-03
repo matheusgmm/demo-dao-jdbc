@@ -1,0 +1,11 @@
+
+Š
+java:S1192z"mDefine a constant instead of duplicating this literal "SELECT seller.*, department.Name as DepName " 3 times.(À¨ïý8µ¼“Ÿê1
+y
+java:S1192|"WDefine a constant instead of duplicating this literal "INNER JOIN department " 3 times.(ËÝçÈþÿÿÿÿ8µ¼“Ÿê1
+j
+java:S1192{"MDefine a constant instead of duplicating this literal "FROM seller " 3 times.(Â„É·8µ¼“Ÿê1
+k
+java:S1192ž"MDefine a constant instead of duplicating this literal "DepartmentId" 5 times.(ÇÖóÑ8µ¼“Ÿê1
+~
+java:S1488…"[Immediately return this expression instead of assigning it to the temporary variable "obj".(–î©Áøÿÿÿÿ8¶¼“Ÿê1

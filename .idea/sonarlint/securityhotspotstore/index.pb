@@ -7,3 +7,17 @@ P
  src/db/DbIntegrityException.java,f/f/ffad809862bb971ef4704ee6069241c9bc68b8ba
 =
 db.properties,3/b/3b8c33088fa60dfa967fdedbf4c75fa52fdece9a
+L
+src/application/Program.java,a/b/ab8a90cc0b2d9265103c5da6fb5ee7edad0f0f40
+^
+.src/application/model/entities/Department.java,f/2/f29ca4dd7759fed470ab7e09311fcc4c1b214c7c
+Z
+*src/application/model/entities/Seller.java,9/8/981c837be847c797d64f306ba28bd60fd7ab0e55
+\
+,src/application/model/dao/DepartmentDao.java,6/2/62739254ec4efdea0a366f4c708605fc6cfd5ef8
+X
+(src/application/model/dao/SellerDao.java,a/b/ab0e19425b0ac51034bbdf14dee796add10dbba3
+a
+1src/application/model/dao/impl/SellerDaoJDBC.java,3/6/36e4020538d99913c802d90c44d38a69c3e346ac
+Y
+)src/application/model/dao/DaoFactory.java,e/7/e744f71a2d0ac88f828f3e104dbd257d778d0bb8
