@@ -1,7 +1,6 @@
 
-_
-java:S1854"=Remove this useless assignment to local variable "sellerDao".(úï¡Ëıÿÿÿÿ8šš‹œê1
-G	java:S106"+Replace this use of System.out by a logger.(Áªø8š‹œê1
-L	java:S106"+Replace this use of System.out by a logger.(ª‰‡¾üÿÿÿÿ8 š‹œê1
-P
-java:S1481".Remove this unused "sellerDao" local variable.(úï¡Ëıÿÿÿÿ8¢š‹œê1
+r	java:S106"+Replace this use of System.out by a logger.(ª‰‡¾üÿÿÿÿ8±£Ğœê1J$8d577008-17f1-4a05-abbf-2a28dbb87321
+…
+java:S1128"BRemove this unused import 'application.model.entities.Department'.( Š¤8³£Ğœê1J$53bc28fc-ef85-4c89-ae0c-694bcf4dcce8
+n
+java:S1128"+Remove this unused import 'java.util.Date'.(¸…¼ü8´£Ğœê1J$e23b8541-d273-4908-b74e-79ec1cec5fc7
