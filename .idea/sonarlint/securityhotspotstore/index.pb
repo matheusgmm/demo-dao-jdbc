@@ -11,3 +11,5 @@ L
 src/application/Program.java,a/b/ab8a90cc0b2d9265103c5da6fb5ee7edad0f0f40
 ^
 .src/application/model/entities/Department.java,f/2/f29ca4dd7759fed470ab7e09311fcc4c1b214c7c
+Z
+*src/application/model/entities/Seller.java,9/8/981c837be847c797d64f306ba28bd60fd7ab0e55
