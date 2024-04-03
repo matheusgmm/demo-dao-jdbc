@@ -13,3 +13,7 @@ L
 .src/application/model/entities/Department.java,f/2/f29ca4dd7759fed470ab7e09311fcc4c1b214c7c
 Z
 *src/application/model/entities/Seller.java,9/8/981c837be847c797d64f306ba28bd60fd7ab0e55
+\
+,src/application/model/dao/DepartmentDao.java,6/2/62739254ec4efdea0a366f4c708605fc6cfd5ef8
+X
+(src/application/model/dao/SellerDao.java,a/b/ab0e19425b0ac51034bbdf14dee796add10dbba3
